@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiranjeevi003
 - 👀 I’m interested in Python and More Python. 
 - 🌱 I’m currently learning Python, ML and Artificial Intelligencee.
-- 📫 How to reach me on insta : chp005
+- 📫 chiranjeevip004@gmail.com
 - Part time Farmer 🌱
 
 <!---
